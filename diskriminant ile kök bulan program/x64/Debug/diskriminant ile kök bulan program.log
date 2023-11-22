@@ -1,0 +1,4 @@
+﻿  diskriminant ile kök bulan program.cpp
+C:\Users\yusuf\source\repos\diskriminant ile kök bulan program\diskriminant ile kök bulan program.cpp(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yusuf\source\repos\diskriminant ile kök bulan program\diskriminant ile kök bulan program.cpp(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yusuf\source\repos\diskriminant ile kök bulan program\diskriminant ile kök bulan program.cpp(15,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

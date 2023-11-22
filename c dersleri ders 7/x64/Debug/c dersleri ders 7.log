@@ -1,0 +1,3 @@
+﻿  ders 7.cpp
+C:\Users\yusuf\source\repos\c dersleri ders 7\ders 7.cpp(7,10): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  c dersleri ders 7.vcxproj -> C:\Users\yusuf\source\repos\c dersleri ders 7\x64\Debug\c dersleri ders 7.exe

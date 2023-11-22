@@ -1,0 +1,3 @@
+﻿  ders2.cpp
+ders2.obj : error LNK2005: main zaten ders1.obj üzerinde tanımlandı
+C:\Users\yusuf\source\repos\yazılım dersleri 1\x64\Debug\yazılım dersleri 1.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu

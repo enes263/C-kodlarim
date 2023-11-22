@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (helloworld.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  HelloWorld.cpp
+C:\Users\yusuf\source\repos\helloworld\HelloWorld.cpp(11,3): error C2065: 't': bildirimi yapılmamış tanımlayıcı
+C:\Users\yusuf\source\repos\helloworld\HelloWorld.cpp(11,7): error C2065: 't': bildirimi yapılmamış tanımlayıcı
+C:\Users\yusuf\source\repos\helloworld\HelloWorld.cpp(14,18): error C2065: 't': bildirimi yapılmamış tanımlayıcı

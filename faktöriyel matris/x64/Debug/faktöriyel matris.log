@@ -1,0 +1,4 @@
+﻿  fakt matris.cpp
+C:\Users\yusuf\source\repos\faktöriyel matris\fakt matris.cpp(5,6): error C2078: çok fazla başlatıcı
+C:\Users\yusuf\source\repos\faktöriyel matris\fakt matris.cpp(6,6): error C2078: çok fazla başlatıcı
+C:\Users\yusuf\source\repos\faktöriyel matris\fakt matris.cpp(7,12): error C2110: '+': iki işaretçi toplanamaz

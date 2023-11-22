@@ -1,0 +1,3 @@
+﻿  pow.cpp
+C:\Users\yusuf\source\repos\pow\pow.cpp(11,9): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\pow\pow.cpp(11): error C4700: başlatılmamış yerel değişken 't' kullanıldı

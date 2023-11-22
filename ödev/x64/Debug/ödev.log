@@ -1,0 +1,7 @@
+﻿  ödev.cpp
+C:\Users\yusuf\source\repos\ödev\ödev.cpp(5,1): warning C4102: 'baslangic': etiket başvurusu kaldırıldı
+C:\Users\yusuf\source\repos\ödev\ödev.cpp(4,7): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+C:\Users\yusuf\source\repos\ödev\ödev.cpp(4,10): warning C4101: 'b': yerel değişken başvurusu kaldırıldı
+C:\Users\yusuf\source\repos\ödev\ödev.cpp(4,13): warning C4101: 'c': yerel değişken başvurusu kaldırıldı
+C:\Users\yusuf\source\repos\ödev\ödev.cpp(4,16): warning C4101: 'd': yerel değişken başvurusu kaldırıldı
+  ödev.vcxproj -> C:\Users\yusuf\source\repos\ödev\x64\Debug\ödev.exe
